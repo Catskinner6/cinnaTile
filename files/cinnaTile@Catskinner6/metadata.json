@@ -1,6 +1,6 @@
 {
   "uuid": "cinnaTile@Catskinner6",
-  "name": "Workspace Tiling Toggle",
+  "name": "cinnaTile",
   "description": "Allows toggling between manual and auto-tiling for each workspace",
   "version": "1.0"
 }
